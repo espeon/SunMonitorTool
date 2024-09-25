@@ -5,8 +5,8 @@ Allows Sunshine to manage display resolutions and virtual displays on Windows.
 ## Prerequisites
 
 - [**Mike's VDD fork**](https://github.com/itsmikethetech/Virtual-Display-Driver): Creates a virtual display similar to a real one, so we don't have to use a dummy HDMI tool. Install instructions in the repo readme.
-- [**qres**](https://sourceforge.net/projects/qres/): A command-line utility for setting the screen resolution. Make sure it is installed and accessible in your system's PATH.
-- [**MultiMonitorTool**](https://www.nirsoft.net/utils/multi_monitor_tool.html): A tool to manage multiple displays. Make sure it is installed and accessible in your system's PATH.
+- [**qres**](https://sourceforge.net/projects/qres/): A command-line utility for setting the screen resolution. Make sure the executable is accessible in your system's PATH.
+- [**MultiMonitorTool**](https://www.nirsoft.net/utils/multi_monitor_tool.html): A tool to manage multiple displays. Make sure the executable is accessible in your system's PATH.
 
 ## How to use
 - Install the prerequisites
